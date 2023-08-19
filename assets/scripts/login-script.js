@@ -5,6 +5,11 @@
  * Gunakan fungsi showPopUp() untuk menampilkan pop up error
  */
 
+/* Membuat constant
+* @constant {HTLMElement}
+*/
+
+
 const loginFormElement = document.querySelector('#loginForm');
 const inputEmailElement = document.querySelector('#inputEmail');
 const inputPasswordElement = document.querySelector('#inputPassword');
